@@ -1,0 +1,12 @@
+1
+Nikhil
+Varma
+25
+9.62714e+07
+Student
+SHIMLA
+Fever
+01/07/2022
+04/07/2022
+21000
+GENERAL_MEDICINE
